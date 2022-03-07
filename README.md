@@ -6,4 +6,6 @@ projetos criados no mysql e postgres
  - criação de tabelas
  - triggers
  - procedures
+ - view
+ - tabelas temporarias
  
